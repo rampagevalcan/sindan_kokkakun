@@ -1,0 +1,69 @@
+header{
+  height: 50px;
+  width: 100%;
+  font-size: 25px;
+  text-align:center;
+  color: rgb(240, 245, 247);
+  background-color: rgb(7, 7, 7);
+}
+
+.contents{
+  margin: auto ;
+  padding-top: 10px;
+  font-size: 20px;
+  width: 1100px;
+}
+
+.merit{
+  margin: auto;
+  padding-bottom: 10px;
+  font-size: 18px;
+  width: 1100px;
+  color: red
+}
+
+.middle_contents{
+  width: 1100px;
+  padding-bottom: 20px;
+  margin: auto;
+  font-size: 20px;
+}
+
+.bottom_contents{
+  width: 1100px;
+  margin: auto;
+  padding-bottom: 20px;
+  font-size: 20px;
+  border-bottom: solid 3px black;
+}
+
+.questions{
+  margin: 0 auto 10px;
+  border-bottom: solid 3px black;
+  font-size: 20px;
+  width: 460px;
+}
+
+.answer{
+  margin: 0 auto;
+  width: 460px;
+  font-size: 15px;
+}
+
+.count{
+  margin:0 auto;
+  width: 300px;
+  color: red;
+}
+
+.category{
+  margin: 20px auto 20px;
+  width: 700px;
+  font-size: 20px;
+}
+
+footer{
+  height: 50px;
+  width: 100%;
+  background-color: rgb(7, 7, 7);
+}

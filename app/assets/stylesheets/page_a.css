@@ -1,0 +1,73 @@
+.straight{
+  background-color: rgb(245, 175, 175);
+}
+.type{
+  margin: 20px auto 15px;
+  width: 850px;
+  font-size: 25px;
+}
+
+.red{
+  color: red;
+  border-bottom: solid 3px yellow;
+}
+
+.table{
+  margin: 20px auto 15px;
+  width: 850px;
+  font-size: 25px;
+  border-bottom: solid 3px yellow;
+}
+
+.characteristics{
+  margin: 0 auto;
+  width: 750px;
+  font-size: 20px;
+}
+
+.muscle{
+  margin: 0 auto;
+  width:750px;
+  font-size: 20px;
+}
+
+.coordination{
+  margin: 0 auto;
+  width: 750px;
+  font-size: 20px;
+}
+
+.top{
+  margin: 0 auto;
+  width: 750px;
+  font-size: 20px;
+}
+
+.bottom{
+  margin: 0 auto;
+  width: 750px;
+  font-size: 20px;
+}
+
+.pattern{
+  margin: 0 auto;
+  width: 750px;
+  font-size: 20px;
+}
+
+.ng{
+  margin: 0 auto 20px;
+  width: 750px;
+  font-size: 20px;
+}
+
+.return{
+  margin: 0 auto 20px;
+  width: 700px;
+}
+
+footer{
+  height: 50px;
+  width: 100%;
+  background-color: rgb(7, 7, 7);
+}
