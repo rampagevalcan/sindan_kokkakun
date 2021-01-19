@@ -49,8 +49,9 @@
 
 
 # 使用技術（開発環境）
-- 言語 ： ruby JavaScript
-- フレームワーク : ruby on rails
+- フロントエンド ： JavaScript/HTML/CSS
+- サーバーエンド : ruby 2.6.5
+- フレームワーク : ruby on rails 6.0.0
 - サーバー : heroku
 - DB ： mysql
 
