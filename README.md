@@ -21,7 +21,7 @@
 # 利用方法
 - 最初のページで質問にチェックを付けてお答えください。  その後、「カウントする」ボタンを押して、チェック数の集計をしてください。  
 集計後、診断結果が書かれてあるリンクをクリックして、結果をご確認ください。
-- 操作のgif　https://i.gyazo.com/31050e9f82825045febbada28bd009ed.gif
+[![Image from Gyazo](https://i.gyazo.com/e0f41d616c1001601358a8b13df5de94.gif)](https://gyazo.com/e0f41d616c1001601358a8b13df5de94)
 
 
 # トップページ
