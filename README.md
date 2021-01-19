@@ -25,7 +25,7 @@
 
 
 # トップページ
-![トップページ]（https://raw.githubusercontent.com/rampagevalcan/sindan_kokkakun/master/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-01-19%2017.48.26.png）
+![トップページ]（https://github.com/rampagevalcan/sindan_kokkakun/blob/master/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-01-19%2017.48.26.png）
 
 
 # 機能
