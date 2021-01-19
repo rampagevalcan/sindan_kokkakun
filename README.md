@@ -25,7 +25,7 @@
 
 
 # トップページ
-! [トップページ]（https://i.gyazo.com/b77551061fc3deca65fc6e8fa9bee195.png）
+ ![トップページ]（https://i.gyazo.com/b77551061fc3deca65fc6e8fa9bee195.png）
 
 
 # 機能
