@@ -28,6 +28,18 @@
 [![Image from Gyazo](https://i.gyazo.com/72577794819a5f514190e45fe0447ffc.png)](https://gyazo.com/72577794819a5f514190e45fe0447ffc)
 
 
+# ページA
+[![Image from Gyazo](https://i.gyazo.com/84bb06a12938194a00247999c81dda19.png)](https://gyazo.com/84bb06a12938194a00247999c81dda19)
+
+
+# ページB
+[![Image from Gyazo](https://i.gyazo.com/648750f4dd73bea68834c791b2d1a0a8.png)](https://gyazo.com/648750f4dd73bea68834c791b2d1a0a8)
+
+
+# ページC
+[![Image from Gyazo](https://i.gyazo.com/86434cb0f046ec81978bb452524d0f2b.png)](https://gyazo.com/86434cb0f046ec81978bb452524d0f2b)
+
+
 # 機能
 - トップページの質問集計機能
 - それぞれの診断結果へのリンク機能
