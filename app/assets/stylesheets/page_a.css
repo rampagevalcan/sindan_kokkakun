@@ -71,7 +71,21 @@
   background-color:rgb(5, 15, 5);
   width: 400px;
   font-size: 20px;
-  box-shadow    : 6px 6px 3px #666666;
+  box-shadow: 6px 6px 3px #666666;
+}
+
+.image{
+  display: flex;
+  justify-content: center;
+  width:900px;
+  margin: 0 auto;
+  font-size: 17px;
+}
+
+.example{
+  width:350px;
+  height:400px;
+  margin:0px 20px 20px 20px;
 }
 
 footer{
