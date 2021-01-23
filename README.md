@@ -43,7 +43,7 @@
 
 # ページC
 [![Image from Gyazo](https://i.gyazo.com/86434cb0f046ec81978bb452524d0f2b.png)](https://gyazo.com/86434cb0f046ec81978bb452524d0f2b)
-[![Image from Gyazo](https://i.gyazo.com/cd433bf5b34c4d65fc04902922a67c75.png)](https://gyazo.com/cd433bf5b34c4d65fc04902922a67c75)
+[![Image from Gyazo](https://i.gyazo.com/739768ceed1745ad30a82cbf6d1a9162.jpg)](https://gyazo.com/739768ceed1745ad30a82cbf6d1a9162)
 
 # 工夫したポイント
 - デザイン面は男性向けになるので、シンプルになるように意識しました。
