@@ -29,18 +29,21 @@
 # トップページ
 [![Image from Gyazo](https://i.gyazo.com/72577794819a5f514190e45fe0447ffc.png)](https://gyazo.com/72577794819a5f514190e45fe0447ffc)
 
+#診断結果アラート
+[![Image from Gyazo](https://i.gyazo.com/395be4e50ea61b93a49ed4fda5167362.png)](https://gyazo.com/395be4e50ea61b93a49ed4fda5167362)
+
 
 # ページA
 [![Image from Gyazo](https://i.gyazo.com/84bb06a12938194a00247999c81dda19.png)](https://gyazo.com/84bb06a12938194a00247999c81dda19)
-
+[![Image from Gyazo](https://i.gyazo.com/423c7ea27e4c944d6a1bd4745049f9cd.jpg)](https://gyazo.com/423c7ea27e4c944d6a1bd4745049f9cd
 
 # ページB
 [![Image from Gyazo](https://i.gyazo.com/648750f4dd73bea68834c791b2d1a0a8.png)](https://gyazo.com/648750f4dd73bea68834c791b2d1a0a8)
-
+[![Image from Gyazo](https://i.gyazo.com/c8cbfc28addde0cbaeb574aadf16ebfd.jpg)](https://gyazo.com/c8cbfc28addde0cbaeb574aadf16ebfd)
 
 # ページC
 [![Image from Gyazo](https://i.gyazo.com/86434cb0f046ec81978bb452524d0f2b.png)](https://gyazo.com/86434cb0f046ec81978bb452524d0f2b)
-
+[![Image from Gyazo](https://i.gyazo.com/cd433bf5b34c4d65fc04902922a67c75.png)](https://gyazo.com/cd433bf5b34c4d65fc04902922a67c75)
 
 # 工夫したポイント
 - デザイン面は男性向けになるので、シンプルになるように意識しました。
@@ -48,6 +51,8 @@
 - 最初は、チェック数に応じて自動でそれぞれの診断結果ページに遷移させる予定でした。  
 しかし、ユーザー目線で考えた場合に知識として他のタイプのことも知っておきたい人もいるのではないか？と考えました。  
 そのため、ボタンを押してチェック数を集計する形にして、その気になれば他のタイプの診断結果も見にいけるように実装しました。
+- 診断結果アラートはif文を用いて診断結果によって、表示が変わるようにしました。
+- 診断結果ページにそれぞれイメージ画像を添付して、どんな服装が似合うのかイメージを持ってもらいやすくしました。
 
 
 # 使用技術（開発環境）
@@ -58,6 +63,5 @@
 - DB ： MySQL
 
 # 改善したい点
-- 画像が無く、どんな骨格なのか、どんな服装になるのかイメージしにくい人もいると考えたので、画像を探してトップページと診断結果のページに載せて、イメージを持ってもらいやすくしたいと考えております。
 - 似合う服装を知ったあとのアクションに繋げやすいように、服を購入できるサイトへのリンクを乗せることを検討しております。
 - オシャレに詳しい方に質問できたり、服装をチェックしてもらえるコメント機能の実装をしてみたいと考えております。
