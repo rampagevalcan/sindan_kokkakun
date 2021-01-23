@@ -29,9 +29,6 @@
 # トップページ
 [![Image from Gyazo](https://i.gyazo.com/72577794819a5f514190e45fe0447ffc.png)](https://gyazo.com/72577794819a5f514190e45fe0447ffc)
 
-#診断結果アラート
-[![Image from Gyazo](https://i.gyazo.com/395be4e50ea61b93a49ed4fda5167362.png)](https://gyazo.com/395be4e50ea61b93a49ed4fda5167362)
-
 
 # ページA
 [![Image from Gyazo](https://i.gyazo.com/84bb06a12938194a00247999c81dda19.png)](https://gyazo.com/84bb06a12938194a00247999c81dda19)
