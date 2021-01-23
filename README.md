@@ -36,7 +36,7 @@
 
 # ページB
 [![Image from Gyazo](https://i.gyazo.com/648750f4dd73bea68834c791b2d1a0a8.png)](https://gyazo.com/648750f4dd73bea68834c791b2d1a0a8)
-[![Image from Gyazo](https://i.gyazo.com/c8cbfc28addde0cbaeb574aadf16ebfd.jpg)](https://gyazo.com/c8cbfc28addde0cbaeb574aadf16ebfd)
+[![Image from Gyazo](https://i.gyazo.com/5ffbfdd744197518dc44f8c685b8764e.jpg)](https://gyazo.com/5ffbfdd744197518dc44f8c685b8764e)
 
 # ページC
 [![Image from Gyazo](https://i.gyazo.com/86434cb0f046ec81978bb452524d0f2b.png)](https://gyazo.com/86434cb0f046ec81978bb452524d0f2b)
