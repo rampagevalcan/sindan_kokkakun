@@ -32,14 +32,16 @@
 
 # ページA
 [![Image from Gyazo](https://i.gyazo.com/84bb06a12938194a00247999c81dda19.png)](https://gyazo.com/84bb06a12938194a00247999c81dda19)
+[![Image from Gyazo](https://i.gyazo.com/423c7ea27e4c944d6a1bd4745049f9cd.jpg)](https://gyazo.com/423c7ea27e4c944d6a1bd4745049f9cd)
 
 
 # ページB
 [![Image from Gyazo](https://i.gyazo.com/648750f4dd73bea68834c791b2d1a0a8.png)](https://gyazo.com/648750f4dd73bea68834c791b2d1a0a8)
-
+[![Image from Gyazo](https://i.gyazo.com/5ffbfdd744197518dc44f8c685b8764e.jpg)](https://gyazo.com/5ffbfdd744197518dc44f8c685b8764e)
 
 # ページC
 [![Image from Gyazo](https://i.gyazo.com/86434cb0f046ec81978bb452524d0f2b.png)](https://gyazo.com/86434cb0f046ec81978bb452524d0f2b)
+[![Image from Gyazo](https://i.gyazo.com/739768ceed1745ad30a82cbf6d1a9162.jpg)](https://gyazo.com/739768ceed1745ad30a82cbf6d1a9162)
 
 
 # 工夫したポイント
